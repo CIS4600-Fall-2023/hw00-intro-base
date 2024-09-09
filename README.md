@@ -2,6 +2,11 @@
 jrayca
 Jillian Rayca
 24415650
+Demo: https://cis4600-fall-2023.github.io/hw00-intro-base/
+
+Was having trouble wit gh-pages and github publishing (had to manually create branch) so here is a screenshot of my demo:
+![cis566hw00screenshot](https://github.com/user-attachments/assets/64ebbe85-518b-4893-b9a8-d0f5c882ef23)
+
 <p align="center">
   <img width="360" height="360" src="https://user-images.githubusercontent.com/1758825/132532354-e3a45402-e484-499e-bfa7-2d73b9f2c946.png">
 </p>
